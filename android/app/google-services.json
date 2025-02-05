@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "685339786744",
+    "project_id": "bandvagon-c6eb4",
+    "storage_bucket": "bandvagon-c6eb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685339786744:android:1371fc0a4fa7fe26ebaa0d",
+        "android_client_info": {
+          "package_name": "com.bv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685339786744-YOUR_CLIENT_ID.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bv",
+            "certificate_hash": "YOUR_SHA1_HASH"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyDdXewsiE5xieTQ6EBd_OyWFVbYGONpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+} 
